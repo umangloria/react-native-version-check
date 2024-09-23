@@ -25,12 +25,12 @@
     "expo": ">=50"
   },
   "dependencies": {
-    "expo-constants": "^16.0.1",
+    "expo-constants": "^16.0.2",
     "expo-localization": "^15.0.3",
     "react-native-version-check": "^3.4.7"
   },
   "devDependencies": {
-    "expo": "^51.0.2",
+    "expo": "^51.0.32",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz"
   }
 }
